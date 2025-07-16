@@ -31,6 +31,10 @@ const API_SITES = {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
         name: '如意资源',
     },
+    maoyanzy: {
+        api: 'https://api.maoyanapi.top/api.php/provide/vod',
+        name: '猫眼影视',
+    },
     bfzy: {
         api: 'https://bfzyapi.com/api.php/provide/vod',
         name: '暴风资源',
