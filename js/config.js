@@ -32,8 +32,8 @@ const API_SITES = {
         name: '如意资源',
     },
     maoyanzy: {
-        api: 'https://api.maoyanapi.top/api.php/provide/vod',
-        name: '猫眼影视',
+        api: 'https://sklive.zabc.net/api.php/provide/vod',
+        name: '猫影视1',
     },
     bfzy: {
         api: 'https://bfzyapi.com/api.php/provide/vod',
